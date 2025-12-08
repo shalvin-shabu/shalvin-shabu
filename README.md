@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shalvin Shabu</h1>
 
 <p align="center">
-  <b>B.Tech in Artificial Intelligence & Data Science | Aspiring AI Engineer</b><br>
+  <b>B.Tech in Artificial Intelligence & Data Science | Aspiring Ml Engineer</b><br>
   President – CSI Club | NASA Space Apps 2024 Galactic Problem Solver
 </p>
 
