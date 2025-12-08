@@ -128,7 +128,7 @@ Pin these once updated:
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 &nbsp;
-<a href="mailto:shalvinshabu@gmail.com">
+<a href="mailto:shalvinshabu1@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
