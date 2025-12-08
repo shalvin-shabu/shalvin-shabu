@@ -124,7 +124,7 @@ Pin these once updated:
 
 ## 📫 Connect With Me
 <p>
-<a href="https://www.linkedin.com/in/shalvin-shabu/">
+<a href="https://www.linkedin.com/in/shalvin-shabu-a05b19297">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 &nbsp;
@@ -132,6 +132,7 @@ Pin these once updated:
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
+
 
 ---
 
