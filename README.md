@@ -8,13 +8,11 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Final-year B.Tech student specializing in **Artificial Intelligence & Data Science**
-- 👑 **President – Computer Society of India (CSI) Club**, leading technical events, workshops & community initiatives
-- 🧠 Passionate about **Machine Learning, Deep Learning, AI Systems, and NLP**
-- 🔬 Currently working on **Smart MicroLab** — an AI-assisted portable diagnostic system  
-- 🤖 Building my own personal AI assistant **FRIDAY**
-- 📚 Interested in **Transformers, Edge AI, IoT + AI integrations, and AI Engineering**
-- 🧩 I love solving real problems and building impactful AI projects
+* 🎓 **B.Tech graduate** specializing in **Artificial Intelligence & Data Science**
+* 💼 Currently working as an **AI/ML Faculty Intern at Techbyheart**
+* 🧠 Passionate about **Machine Learning, Deep Learning, and Natural Language Processing (NLP)**
+* 🔬 Passionate about building practical **AI and Machine Learning solutions**
+* 🧩 I enjoy solving real-world problems and developing **impactful AI projects**
 
 ---
 
